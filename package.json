@@ -1,0 +1,15 @@
+{
+    "name": "employee-database-management",
+    "version": "1.0.0",
+    "description": "A command-line application to manage a company's employee database",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "pg": "^8.7.1"
+    }
+}
