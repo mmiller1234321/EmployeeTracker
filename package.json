@@ -9,7 +9,8 @@
     "author": "Your Name",
     "license": "MIT",
     "dependencies": {
-        "inquirer": "^8.2.4",
+        "express": "^4.18.3",
+        "inquirer": "^8.2.6",
         "pg": "^8.7.1"
     }
 }
