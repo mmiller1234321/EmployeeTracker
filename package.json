@@ -1,16 +1,18 @@
 {
-    "name": "employee-database-management",
-    "version": "1.0.0",
-    "description": "A command-line application to manage a company's employee database",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js"
-    },
-    "author": "Your Name",
-    "license": "MIT",
-    "dependencies": {
-        "express": "^4.18.3",
-        "inquirer": "^8.2.6",
-        "pg": "^8.7.1"
-    }
+  "name": "main",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.2.4",
+    "pg": "^8.11.3"
+  }
 }
