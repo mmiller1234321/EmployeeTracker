@@ -17,7 +17,7 @@ Note: Nodemon does not appear to be compatible with the version of Inquirer used
 
 App can be run by calling it on the command line. Here is a demo video: 
 
-https://drive.google.com/file/d/1D2EXljUgtzEJtoBVu16p17_WobdbPASM/view
+<iframe src="https://drive.google.com/file/d/1D2EXljUgtzEJtoBVu16p17_WobdbPASM/preview" width="640" height="480"></iframe>
 ## License
 
 MIT
